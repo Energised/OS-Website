@@ -13,4 +13,4 @@ There are 7 different types of Operating Systems we can compare and contrast:
 **Computer** - *An electronic device made up of hardware that's capable of receiving data in a particular form and of performing predetermined
 procedural instructions*
 
-[Here's a diagram showing a simplified system of a computer](operatingsystems.gif)
+[Here's a diagram showing an operating systems role in a computer](operatingsystems.gif)
