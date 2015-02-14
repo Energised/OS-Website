@@ -1,0 +1,11 @@
+site_name: Operating Systems Classification
+pages:
+- [index.md, Home]
+- [interactive.md, Interactive Operating Systems]
+- [realtime.md, Real-time Operating Systems]
+- [network.md, Network Operating Systems]
+- [device.md, Device Operating Systems]
+- [embedded.md, Embedded Operating Systems]
+- [desktop.md, Desktop Operating Systems]
+- [server.md, Server Operating Systems]
+theme: readthedocs
