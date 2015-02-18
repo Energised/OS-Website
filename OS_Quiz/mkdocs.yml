@@ -1,0 +1,8 @@
+site_name: Operating Systems Quiz
+pages:
+- [index.md, Home]
+- [q-one.md, Question One]
+- [q-two.md, Question Two]
+- [q-three.md, Question Three]
+- [ans.md, Answers Page]
+theme: readthedocs
