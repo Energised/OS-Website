@@ -10,4 +10,4 @@ C
 
 For Question 3:
 
-A,B,C,E
+A,B,C
